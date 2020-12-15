@@ -1,2 +1,0 @@
-# elton-exercise
-Test
